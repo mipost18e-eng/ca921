@@ -1,0 +1,24 @@
+{
+  "app_version": "2.4.1",
+  "min_supported": "2.0.0",
+  "update_required": false,
+  "changelog": [
+    "Performance improvements",
+    "Bug fixes and stability enhancements"
+  ],
+  "build_id": "xH9vL2qW",
+  "release_date": "2024-11-17T18:47:00Z",
+  "file_size": 8472615,
+  "checksum": "a8f3c2d5e7b9f1a4c6d8e2f5a9b3c7d4e1f6a8b2c5d9e3f7a4b6c8d1e5f9a2b7",
+  "features": {
+    "dark_mode": true,
+    "offline_mode": true,
+    "analytics": true
+  },
+  "maintenance": {
+    "scheduled": false,
+    "message": "",
+    "start_time": null,
+    "end_time": null
+  }
+}
